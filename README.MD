@@ -1,6 +1,6 @@
 # ORDER SERVICE
 
-### This is a microservice, part of CoffeMash project
+Welcome to the CoffeMash project! The Order Service is a vital microservice built using the FastAPI framework, adhering to modern microservice patterns.
 
 ## Steps: [setup environment locally]
 
@@ -23,7 +23,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Go to project directory and run the below command
+## Go to project directory and run the below command to set prject directory
 
 ```
 export PYTHONPATH=$PWD
@@ -34,3 +34,13 @@ export PYTHONPATH=$PWD
 ```
 uvicorn orders.app:app --reload
 ```
+
+# API Documentation:
+
+The Order Service API documentation is available here.(comming soon...)
+
+# Contact:
+
+For any questions or inquiries, please contact with me at mdfaisalnstu@gmail.com.
+
+Let's make coffee ordering a breeze with the CoffeMash project!
